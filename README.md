@@ -1,7 +1,7 @@
 2D Computer Vision-Codebase
 - 
 This project aims to offer a user-friendly codebase for initiating 2D Computer Vision tasks.
-It includes code for training diverse deep learning models (such as `VGG19`, `ResNet50`, `ResNet20`, etc) on various datasets, utilizing a range of optimizers.
+It includes code for training different deep learning models (such as `VGG19`, `ResNet50`, `ResNet20`, etc) on various datasets, utilizing a range of optimizers.
 ### Setup
 - Dependencies: `pandas`, `torch`, `torchvision`, `natsort`, `pillow`, `tqdm`.
 - Following models are available: [`ResNet18`](https://arxiv.org/abs/1512.03385), [`ResNet50`](https://arxiv.org/abs/1512.03385), [`VGG19`](https://arxiv.org/abs/1409.1556), [`LeNet`](https://arxiv.org/abs/1706.06083), [`Small CNN`](https://arxiv.org/abs/1608.04644), [`ResNet20`](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf), [`WideResNet`](https://arxiv.org/abs/1605.07146), `Basic MLP`, [`Basic CNN`](https://arxiv.org/abs/1608.04644).
