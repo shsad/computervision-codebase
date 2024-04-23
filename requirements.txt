@@ -1,0 +1,7 @@
+argparse==1.1
+natsort==8.4.0
+pandas==2.2.1
+pillow==10.2.0
+torch==2.2.1
+torchvision==0.17.1
+tqdm==4.66.2

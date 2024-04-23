@@ -1,0 +1,9 @@
+{
+    "VGG19": {
+        "weights": "None"
+    },
+
+    "ResNet50": {
+        "weights": "None"
+    }
+}
